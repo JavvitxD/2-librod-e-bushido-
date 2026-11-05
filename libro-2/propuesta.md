@@ -74,11 +74,30 @@ Cada capítulo es **un perdido**: el dueño de un arma de la bodega del Libro I.
 ### Epílogo
 Vuelve a casa y retoma el legado. Todos lo ven como un lord curtido por la guerra sin saber por qué. Termina con una piedra gris sobre la tumba de su padre.
 
+## Decisiones tomadas (ronda 2)
+
+- **El Espíritu del Bosque** es una luz sin forma con voz de mujer. La luz dorada del cap. 20 del Libro I era ella, poniendo a prueba a Musashi.
+- **Las historias "suyas" del cap. 3 del Libro I** (el templo, la hija del amigo, el hombre congelado) eran historias de sus alumnos perdidos. Las contaba en primera persona porque el hechizo le impedía contar la suya.
+- **Regresa a la emboscada con su cuerpo joven** y con cuarenta años de maestría dentro.
+- **Interés amoroso:** la hija (o descendiente) de Yui, que viaja en la caravana de la emboscada.
+
+### Propuesta para el arco de amor
+- La caravana viaja por la ruta *Michi wo Shinjite* que abrieron Musashi y Toran, y la dirige la hija de Yui.
+- **En la primera emboscada** el hijo huye, y ella y los escoltas pagan el precio ("otros pagaron el precio de una decisión que debí pagar yo"). Cuarenta años cargando esa imagen.
+- **En la segunda** no huye y la salva. Ella no sabe nada; él la conoce desde hace cuarenta años de culpa.
+- **Yui, ya anciana**, lo mira a los ojos y reconoce al maestro del bosque. Ninguno de los dos puede, o necesita, decirlo.
+
+## Nombre del hijo (propuestas)
+
+| Nombre | Kanji | Significado |
+|---|---|---|
+| **Haruhiko** *(recomendado)* | 陽彦 | 陽 *haru*, "sol" + 彦 *hiko*, "hijo noble". *Hiko* viene del antiguo 日子, que literalmente significa "hijo del sol". |
+| Teruhiko | 照彦 | "El hijo que ilumina." |
+| Asahi | 朝日 | "Sol de la mañana": el amanecer que cierra el Libro I. |
+| Hikaru | 光 | "Luz." Hace eco con el Espíritu de luz sin forma. |
+
 ## Decisiones pendientes
 
-1. **El nombre del hijo** (el que Musashi le puso porque "lo sabía").
-2. **¿Cómo es el Espíritu del Bosque?** ¿Es la luz dorada del capítulo 20, o algo distinto?
-3. **¿Qué son las sombras?** Opción fuerte: son lo que queda de los perdidos que fallaron la prueba, y el maestro tiene que enfrentarse a sus antiguos alumnos.
-4. **Las historias "suyas" del capítulo 3 del Libro I** (30 años en un templo, la hija del amigo, el hombre congelado) no encajan con un noble que pasó 40 años en el bosque. Solución propuesta: eran historias de sus alumnos perdidos, que contaba como propias porque el hechizo no le dejaba contar las suyas.
-5. **Yui.** El maestro tenía 40 años en el bosque cuando la conoció. ¿La caravana de la emboscada final viaja por la ruta *Michi wo Shinjite* que abrió su padre? ¿Hay alguien de la familia de Yui en ella?
-6. **El paso del tiempo.** Hay que confirmar que regresa a su cuerpo joven.
+1. Elegir el nombre del hijo y el de la hija de Yui (propuestas: Akari 灯 "luz de lámpara", Kaede 楓 "arce", Mio 澪 "estela del agua").
+2. **¿Qué son las sombras?** Opción fuerte: lo que queda de los perdidos que fallaron.
+3. ¿Yui, anciana, reconoce al maestro en el epílogo?
