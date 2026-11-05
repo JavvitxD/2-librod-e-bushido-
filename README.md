@@ -10,4 +10,5 @@ El Libro II se centra en **el maestro**: qué pasa con él, con el bosque y con 
 - `libro-2/biblia-libro-1.md` — continuidad del Libro I: personajes, reglas del bosque, objetos y todas las pistas sobre el maestro, capítulo por capítulo.
 - `libro-2/propuesta.md` — premisa, estructura y decisiones del Libro II.
 - `libro-2/ensenanza-y-mensaje.md` — mensaje central, marco ontológico y cómo se enseña cada capítulo.
+- `libro-2/guia-21-ensenanzas.md` — las 21 enseñanzas que guían el Libro II (equivalente a las 21 distinciones del Libro I).
 - `libro-2/capitulos/` — capítulos escritos.

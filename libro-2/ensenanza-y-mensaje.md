@@ -6,6 +6,8 @@ Este documento define **qué enseña el libro y cómo lo enseña**, antes de seg
 
 ## 1. El mensaje central (en una frase)
 
+> **DECIDIDO por el autor: "Mientras haya vida, hay esperanza."** Ver `guia-21-ensenanzas.md`. Las opciones de abajo quedan como referencia.
+
 Cada capítulo debe poder conectarse con esta frase. Opciones:
 
 | | Frase | Acento |
