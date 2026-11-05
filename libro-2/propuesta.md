@@ -1,103 +1,70 @@
-# Libro II — Propuesta (versión 2)
+# Libro II — Propuesta (versión 3)
 
-## Premisa decidida por el autor
+## Lo decidido
 
-- El maestro es **el hijo de Musashi**.
-- Musashi muere de viejo y el hijo hereda el feudo. Conoce de memoria las enseñanzas de su padre, pero nunca las vivió: es un noble consentido que nunca tuvo que sufrir ni esforzarse de verdad por nada.
-- En un viaje lo emboscan unos asaltantes de caravanas. Le pasa lo mismo que a su padre: cae por un precipicio al río y llega al bosque.
-- Allí lo recibe **el Espíritu del Bosque**, que lo hechiza. No puede decirle a nadie su nombre ni su origen, ni nada sobre el Espíritu o su misión. Su trabajo es **convertirse en maestro de muchos perdidos**.
-- **Todas las armas de la bodega son de personas que llegaron al bosque, hicieron la prueba y no la pasaron.** Así fue hasta que llegó Musashi.
-- El hijo aprende de cada persona que llega, y cada vez que una perece frente a la prueba, le duele.
-- Pasa **40 años** en el bosque, hasta que llega Musashi.
-- **Final:** regresa al momento exacto de la emboscada, defiende la caravana y salva a todos. En casa continúa el legado de su padre. Todos lo ven como un lord seguro y curtido por años de batalla, pero nadie sabe por qué.
-- **Tema:** la valentía y la acción. Sin importar la edad, mientras haya vida hay esperanza.
-
-## Por qué esta premisa encaja con el Libro I
-
-Muchas frases del maestro en el Libro I ahora tienen un doble sentido:
-
-| Libro I | Lectura nueva |
+| Elemento | Decisión |
 |---|---|
-| "Ese, guerrero, todavía no te toca saberlo." | No es misterio: el hechizo **le prohíbe** decirlo. |
-| "Cambiaba vendajes para miles de hombres, o quizás solo para uno." | Cuarenta años de alumnos que murieron. |
-| "Tuve un maestro, en otro bosque." | Su padre, Musashi, en la casa y el feudo. |
-| "Hubo un día en que otros pagaron el precio de una decisión que debí pagar yo." | La emboscada: sus escoltas murieron mientras él huía. |
-| "Más de lo que te imaginas… lo aprendí de la peor manera." | Era el noble consentido. |
-| "El juego más grande… todavía estoy jugándolo." / "La visión que nadie creyó." | Formar a su propio padre para que exista su propia vida. |
-| "Gracias a ti, guerrero. Más de lo que alcanzas a imaginar." | Un hijo dándole las gracias a su padre sin poder decirle que es su hijo. |
-| Musashi: "Creo que sé tu nombre." / "su propia sangre todavía por nacer" | Musashi intuye que es su hijo y, al volver, **le pone ese nombre**. |
-| Los reflejos de guerreros en el agua | Son los dueños de las armas: los que cayeron. |
+| Protagonista | **Asahi** (朝日, "sol de la mañana"), hijo de Musashi. Musashi le puso ese nombre porque, en el bosque, ya lo "sabía". |
+| Origen | Musashi muere de viejo; Asahi hereda el feudo. Sabe de memoria las enseñanzas de su padre, pero nunca las vivió: un noble consentido. |
+| La caída | La caravana en la que viaja es emboscada por asaltantes. Huye, otros pagan el precio, cae por un precipicio al río y llega al bosque. |
+| El Espíritu del Bosque | Una luz sin forma con voz de mujer. Lo hechiza: no puede decir su nombre, su origen ni nada sobre ella o su misión. La luz dorada del cap. 20 del Libro I era ella. |
+| Sus 40 años | Maestro de muchos perdidos. Todas las armas de la bodega son de quienes fallaron la prueba, hasta que llega Musashi. Las historias "suyas" del cap. 3 del Libro I eran historias de sus alumnos. |
+| Las sombras | Un reflejo de los alumnos perdidos, no ellos exactamente. Al disolverse en el Claro Oscuro **no quedaron libres**. |
+| **Su camino** | Empieza en el instante en que Musashi cruza el portal. Asahi debe **rescatar a todas las sombras**. No se enfrenta a ellas, sino a **seres de luz enviados por el Espíritu**. |
+| Final | Regresa al instante de la emboscada con su cuerpo joven y cuarenta años de maestría. No huye. Salva a todos. Continúa el legado; todos lo ven como un lord curtido por años de batalla sin saber por qué. |
+| Amor | **Akari** (灯, "luz de lámpara"), hija de Yui, quien dirige la caravana de la emboscada. En la primera emboscada ella paga el precio de la huida de Asahi; en la segunda, él la salva. |
+| Tema | Valentía y acción. Sin importar la edad, mientras haya vida hay esperanza. |
+| Temática | Coaching ontológico, en el dominio de **emoción, lenguaje y acción**: de la resignación a la ambición, y las declaraciones que crean futuro. |
 
-## Propuesta de temática: coaching ontológico, enfocado en emoción, lenguaje y acción
+## Por qué la historia es distinta a la del Libro I
 
-**Mi recomendación: seguir con el coaching ontológico**, por continuidad con el Libro I y porque es tu propio proceso. Pero no repetiría las 21 distinciones de liderazgo, que ya están en el Libro I. Usaría tres pilares de la ontología del lenguaje (el modelo del observador: **lenguaje, emoción y cuerpo**) que sirven exactamente para tu tema de valentía, acción y esperanza:
+| Libro I (Musashi) | Libro II (Asahi) |
+|---|---|
+| Un joven derrotado que **aprende**. | Un viejo que ya enseñó todo y nunca se lo aplicó: **actúa**. |
+| Tiene un maestro a su lado. | Nadie le enseña. Solo tiene a los muertos y a la voz. |
+| Lucha contra la oscuridad (sombras). | Lucha contra **la luz**: seres de luz que no se vencen con fuerza. |
+| Destruye o abraza su sombra. | **Rescata** las sombras de otros. |
+| Recibe un arma por lección: la bodega se **llena**. | Devuelve un arma por cada rescate: la bodega se **vacía**. |
+| Gana su salida. | Gana la salida de los demás, y solo al final la suya. |
+| Termina recuperando su pasado. | Termina **empezando**: su nombre es su primera palabra libre. |
 
-1. **Las emociones que paralizan y las que mueven.** El viaje del hijo va de la **resignación** ("ya no hay nada que hacer", "estoy viejo") a la **ambición** y la esperanza. Pasa por el miedo, el resentimiento contra el Espíritu y el duelo por cada alumno perdido.
-2. **Las declaraciones que crean futuro:** "no sé", "basta", "no", "sí", "pido ayuda", "perdón", "gracias", "te amo". Es un recurso muy potente en un libro donde **el protagonista tiene prohibido declarar quién es**: aprende que uno no es su nombre, sino lo que hace.
-3. **Saber no es ser: el aprendizaje se demuestra en la acción.** Es la herida del hijo: sabía las 21 distinciones de memoria y no había vivido ninguna.
+### Cómo funciona cada ser de luz
+- Cada uno encarna una virtud: el coraje, la esperanza, el perdón…
+- No cae con la espada: cuanto más fuerza recibe, más brilla. Solo se aparta cuando Asahi **actúa desde esa virtud**.
+- Detrás de cada uno espera una sombra: el reflejo de un alumno que cayó justo por la emoción contraria.
+- Al rescatarla, Asahi recuerda a ese alumno en un recuerdo, y el arma vuelve con ella.
 
-Como fondo, sin citarla, la idea de Viktor Frankl de encontrarle sentido al sufrimiento: un hombre que pasa 40 años viendo morir a otros y decide que su dolor sirva para alguien.
+## Estructura
 
-## Estructura propuesta: tres partes
+### Parte I — El claro vacío
+1. **Dos cuencos de té** *(presente)*. Musashi se va. Asahi acompaña a Yui y descubre que ella tendrá una hija, Akari. Habla la voz. *Se atreve a empezar, a cualquier edad.*
+2. **El heredero** *(recuerdo)*. Musashi anciano y su muerte. Un hijo que lo sabe todo y no ha vivido nada. *Saber no es ser.*
+3. **Michi wo Shinjite** *(recuerdo)*. El viaje, Akari, la emboscada, la huida y el río. *El quiebre.*
+4. **La voz sin forma** *(recuerdo)*. El hechizo y el primer alumno muerto. Años de resignación.
 
-### Parte I — El heredero
-1. **La muerte del padre.** Musashi muere viejo. El hijo hereda el feudo, las 21 lecciones de memoria y ninguna en el cuerpo. Su padre lo protegió tanto, por miedo a perder lo que ama (la piedra que Musashi nunca terminó de soltar), que nunca lo dejó caer. *Distinción: saber no es ser.*
-2. **La emboscada.** El viaje, los asaltantes y la huida. Sus escoltas mueren por una decisión que debió pagar él. Cae al río. *Distinción: el quiebre.*
-3. **El Espíritu del Bosque.** El hechizo. Su nombre arrancado. La misión. *Distinción: la identidad no está en el nombre.*
+### Parte II — Los que esperan
+Presente y recuerdo trenzados. Un ser de luz, una sombra y un arma devuelta por capítulo.
 
-### Parte II — Cuarenta años
-Cada capítulo es **un perdido**: el dueño de un arma de la bodega del Libro I. El hijo lo guía, aprende algo de él y lo ve caer en la prueba. Al terminar cada capítulo, el arma va a la bodega.
-
-| Cap. | El perdido (dueño del arma) | Lo que el hijo aprende |
+| Cap. | Ser de luz / emoción o declaración | Sombra rescatada |
 |---|---|---|
-| 4 | El gladiador (espada corta y escudo) | La **resignación**: el primer alumno, al que el hijo no sabe ayudar porque él mismo ya se rindió. |
-| 5 | El navegante del norte (hacha) | El **miedo** y el coraje: el coraje no es la ausencia de miedo. |
-| 6 | El rastreador (arco) | El "**no sé**" como puerta al aprendizaje. |
-| 7 | El estratega (espada recta) | **Juicios y afirmaciones**: lo que creo frente a lo que es. |
-| 8 | El jinete de la estepa (sable curvo) | La declaración del "**basta**". |
-| 9 | La portaestandarte (estandarte) | La **esperanza** como acción, no como espera. |
-| 10 | El rebelde de las tierras altas (espada de dos manos) | Víctima o protagonista. |
-| 11 | El caballero (espada y guanteletes) | **El duelo**: hacerse cargo del dolor de perder alumnos. |
-| 12 | El shinobi (cuerda) | **Pedir ayuda**: la petición que nunca supo hacer. |
-| 13 | El guerrero zulú (iklwa) | El **resentimiento** contra el Espíritu, y el perdón. |
-| 14 | La guerrera amazona (cuchillo curvo) | Hacer **ofertas**: dejar de esperar y ofrecerse. |
-| 15 | El hoplita (lanza y escudo) | **La edad no es un límite**: el hijo ya es viejo y vuelve a empezar. |
-| 16 | El monje, el templario, el arquero, el ronin | El **sentido en el sufrimiento**: su dolor puede servir a alguien. |
+| 5 | La resignación frente a la ambición ("ya estoy viejo") | El gladiador |
+| 6 | El miedo frente al coraje | El navegante del norte |
+| 7 | La declaración del "no sé" | El rastreador |
+| 8 | El resentimiento frente al perdón (hacia el Espíritu y hacia sí mismo) | El guerrero zulú |
+| 9 | Pedir ayuda | El shinobi |
+| 10 | El duelo | El caballero |
+| 11 | La declaración del "basta" | El jinete de la estepa |
+| 12 | La esperanza como acción | La portaestandarte |
+| 13 | Ofrecerse | La guerrera amazona |
+| Interludios | La bodega vaciándose; el Claro Oscuro; la ruta de Yui vista de lejos. | |
 
-### Parte III — El maestro
-17. **El río trae a un samurái medio muerto.** El primer capítulo del Libro I visto por el hijo: reconoce a su padre joven y no puede decírselo.
-18. **Detrás de las lecciones.** Momentos clave del Libro I desde sus ojos: el Señor del Bosque, la katana cambiada, el "Gracias" del capítulo 14.
-19. **El paso de montaña.** El Claro Oscuro y la derrota ante el samurái oscuro, desde dentro: la versión de su padre que nunca lo habría tenido como hijo.
-20. **El portal.** Musashi se va. El Espíritu lo libera. "Gracias a ti, guerrero."
-21. **La emboscada, otra vez.** Vuelve al instante exacto, con un cuerpo joven y cuarenta años de maestría. No huye. Salva a todos.
+### Parte III — El amanecer
+14. **La voz se muestra**. La última prueba es con el Espíritu mismo.
+15. **La bodega vacía**. Todas las sombras quedan libres. Puede decir su nombre: "Asahi".
+16. **La emboscada, otra vez**. No huye. Salva a Akari y a todos.
 
-### Epílogo
-Vuelve a casa y retoma el legado. Todos lo ven como un lord curtido por la guerra sin saber por qué. Termina con una piedra gris sobre la tumba de su padre.
+**Epílogo.** La casa, el feudo y el legado. Yui, anciana, lo reconoce. Una piedra gris sobre la tumba de Musashi.
 
-## Decisiones tomadas (ronda 2)
-
-- **El Espíritu del Bosque** es una luz sin forma con voz de mujer. La luz dorada del cap. 20 del Libro I era ella, poniendo a prueba a Musashi.
-- **Las historias "suyas" del cap. 3 del Libro I** (el templo, la hija del amigo, el hombre congelado) eran historias de sus alumnos perdidos. Las contaba en primera persona porque el hechizo le impedía contar la suya.
-- **Regresa a la emboscada con su cuerpo joven** y con cuarenta años de maestría dentro.
-- **Interés amoroso:** la hija (o descendiente) de Yui, que viaja en la caravana de la emboscada.
-
-### Propuesta para el arco de amor
-- La caravana viaja por la ruta *Michi wo Shinjite* que abrieron Musashi y Toran, y la dirige la hija de Yui.
-- **En la primera emboscada** el hijo huye, y ella y los escoltas pagan el precio ("otros pagaron el precio de una decisión que debí pagar yo"). Cuarenta años cargando esa imagen.
-- **En la segunda** no huye y la salva. Ella no sabe nada; él la conoce desde hace cuarenta años de culpa.
-- **Yui, ya anciana**, lo mira a los ojos y reconoce al maestro del bosque. Ninguno de los dos puede, o necesita, decirlo.
-
-## Nombre del hijo (propuestas)
-
-| Nombre | Kanji | Significado |
-|---|---|---|
-| **Haruhiko** *(recomendado)* | 陽彦 | 陽 *haru*, "sol" + 彦 *hiko*, "hijo noble". *Hiko* viene del antiguo 日子, que literalmente significa "hijo del sol". |
-| Teruhiko | 照彦 | "El hijo que ilumina." |
-| Asahi | 朝日 | "Sol de la mañana": el amanecer que cierra el Libro I. |
-| Hikaru | 光 | "Luz." Hace eco con el Espíritu de luz sin forma. |
-
-## Decisiones pendientes
-
-1. Elegir el nombre del hijo y el de la hija de Yui (propuestas: Akari 灯 "luz de lámpara", Kaede 楓 "arce", Mio 澪 "estela del agua").
-2. **¿Qué son las sombras?** Opción fuerte: lo que queda de los perdidos que fallaron.
-3. ¿Yui, anciana, reconoce al maestro en el epílogo?
+## Pendiente
+- ¿Quién es el Espíritu? ¿Tiene historia propia (una primera perdida, una madre, la propia Amara)? ¿O se queda en misterio?
+- ¿Cuántos capítulos tendrá la Parte II? ¿Las 13 armas restantes de la bodega o una selección?
